@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\DELL\OneDrive\Documents\NetBeansProjects\FTPfilesDownloadApp\FTP.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\DELL\OneDrive\Documents\NetBeansProjects\FTPfilesDownloadApp\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\DELL\OneDrive\Documents\NetBeansProjects\FTPfilesDownloadApp\jre\bin\javaw.exe (OK)
+Version string: 1.008.000_231 / 64-Bit (OK)
+Launcher:	C:\Users\DELL\OneDrive\Documents\NetBeansProjects\FTPfilesDownloadApp\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\DELL\OneDrive\Documents\NetBeansProjects\FTPfilesDownloadApp\FTP.exe"
+Args length:	84/32768 chars
+Exit code:	0
